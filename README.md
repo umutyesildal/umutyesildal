@@ -8,11 +8,11 @@
 
 - 📫 How to reach me **umutyesildal97@gmail.com**
 
-- 📄 Know about my experiences [resumelink.com](resumelink.com)
+- 📄 Know about my experiences [https://raw.githubusercontent.com/umutyesildal/umutyesildal/main/UmutYesildalCV9Mart2021.pdf](Resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/umut yeşildal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="umut yeşildal" height="30" width="40" /></a>
+<a href="https://tr.linkedin.com/in/umut-ye%C5%9Fildal-10546812a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="umut yeşildal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
