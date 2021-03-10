@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Umut</h1>
 <h3 align="center">A passionate frontend developer from Turkey.</h3>
 
+![Visitor Count](https : //profile-counter.glitch.me/{umutyesildal}/count.svg)
+
 - 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **flutter**
